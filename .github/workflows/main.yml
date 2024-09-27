@@ -13,7 +13,7 @@ jobs:
       with:
         iac_type: 'terraform'
         iac_version: 'v14'
-        policy_type: 'aks'
+        policy_type: 'azure'
         only_warn: true
         #scm_token: ${{ secrets.ACCESS_TOKEN }}
         #verbose: true
