@@ -17,7 +17,7 @@ jobs:
         only_warn: true
         #scm_token: ${{ secrets.ACCESS_TOKEN }}
         #verbose: true
-        sarif_upload: true
+        #sarif_upload: true
         #non_recursive:
         #iac_dir:
         #policy_path:
